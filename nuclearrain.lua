@@ -190,7 +190,7 @@ function startGame()
 			dex=0,
 			cax=0,
 			nou=0,
-			sin=1,
+			sin=0,
 			eks=0,
 			cog=0,
 			irp=0,
